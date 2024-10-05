@@ -2,6 +2,8 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+You can watch the [demo](https://nitesta.com), which is expected to be maintained for one week after the assignment is submitted.
+
 ## Getting Started
 
 First, run the development server:
